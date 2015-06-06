@@ -1,0 +1,1 @@
+Before you upload the theme please modify /xotpl/globalnav.html and add your own links, otherwise you get a header that's unusable!
